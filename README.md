@@ -1,3 +1,9 @@
+# 📱 Modelagem e Diagramação de um Componente iPhone.
+
+Este é um projeto Java simples abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java)
+
 # [DIO](www.dio.me) - Trilha Java Básico
 
 ## Autores
@@ -104,3 +110,7 @@ classDiagram
     note "Exemplo de re-utilização de modelos bases"
 ```
 
+
+# IDE
+
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
